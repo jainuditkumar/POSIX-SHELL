@@ -1,0 +1,20 @@
+ls | grep txt
+clear 
+exit
+cd Desktop
+cd ..
+cd ..
+cd Desktop
+cd
+ls
+ls -a -l 2024202019_Assignment2
+nano &
+pinfo 7847
+ps -r
+ps -e
+echo "hello world"
+echo "hello ; world "
+echo "hello ; "
+echo "hell "; "
+echo "hell "; ""
+hi 
